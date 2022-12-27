@@ -1,3 +1,3 @@
-Hello GitHub
+Привет GitHub
 
 после переустановки
